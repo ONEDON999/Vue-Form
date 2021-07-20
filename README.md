@@ -1,21 +1,10 @@
 # web-form
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## This is the interface of the web-form project
+![good1](https://user-images.githubusercontent.com/81350935/126279224-a5755478-4d14-4dae-a962-b9f4920e7794.png)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
 
 
